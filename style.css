@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(195, 205, 213);
+    text-align: center;
+}
+
+.qr-code{
+    width: 18%;
+    margin-top:5%;
+    margin-bottom: 5%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: white;
+    border-radius: 20px;
+    padding-bottom: 40px;
+}
+
+.qr-code-h2{
+    font-family:Arial, Helvetica, sans-serif;
+    width:90%;
+    margin:auto;
+    margin-top:30px;
+}
+
+.qr-code-p{
+    font-family:Arial, Helvetica, sans-serif;
+    width:85%;
+    color:rgb(97, 97, 97);
+    margin:auto;
+    margin-top:20px;
+}
+
+img{
+    width:90%;
+    margin:auto;
+    margin-top:20px;
+    border-radius: 20px;
+}
